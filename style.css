@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    height: 100%;
+}
+
+body{
+    width: 100%;
+}
+
+.img-container{
+    background-image: url(banner/home-banner.png);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.inner-countainer{
+    text-align: center;
+    position: relative;
+    width: 100%;
+    color: white;
+    height: auto;
+
+}
+.asd{
+    position: relative;
+    top: -70%;
+    left: 35%;
+    width: 100%;
+    font-size: 3ex;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-logo{
+    position: relative;
+    top: 41%;
+    left: 25%;
+    width: 100%;
+    font-size: 7ex;
+    color: white;
+}
